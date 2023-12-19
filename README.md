@@ -11,3 +11,19 @@ Project Inventaris KMK UNIMA
     >> branch Tamplate/sd-admin2
 
 * Tujuan dari pembuatan 2 branch ini untuk tujuan pembelajaran GIT
+
+Design Data Base
+Table
+    >> tb_user 
+        id_user
+        user_name
+        email
+
+    >> tb_barang
+        id_barang
+        nama_barang
+        jumlah
+        kondisi
+        keterangan
+
+    >> tb
